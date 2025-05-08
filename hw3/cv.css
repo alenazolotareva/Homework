@@ -1,0 +1,17 @@
+caption {
+    font-size: 25px;
+}
+th {
+    color: ivory;
+    background-color: cadetblue;
+}
+td {
+    background-color: ivory;
+}
+
+.td-class {
+    background-color: powderblue;
+    font-weight: bold;
+    text-align: center;
+    color: darkslategray;
+}
