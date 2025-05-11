@@ -1,0 +1,32 @@
+h2 {
+    color: red;
+}
+li {
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+    color: darkred;
+}
+.li-class {
+    font-size: 25px;
+    color: greenyellow;
+}
+#li-id {
+    font-size: 35px;
+    color: hotpink;
+}
+.span-info {
+    padding: 12px;
+    color: yellow;
+    font-weight: bold;
+}
+div {
+    background-color: cyan;
+}
+.info-class {
+    padding: 30px;
+}
+.div-class {
+    margin-top: 15px;
+    background-color: plum;
+    color: purple;
+}
