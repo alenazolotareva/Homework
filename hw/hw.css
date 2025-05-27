@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+.calculator {
+    background: gainsboro;
+    padding: 10px;
+    border: 2px solid gray;
+    width: 460px;
+}
+
+.display {
+    width: 40%;
+    margin: 10px 0;
+    padding: 4px;
+    text-align: right;
+    display: flex;
+    align-self: flex-end;
+}
+.input {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.modes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 5px 0;
+    font-size: 12px;
+}
+
+.top-buttons {
+    gap: 5px;
+    display: flex;
+    justify-content: flex-end;
+    width: 445px;
+    padding: 5px;
+}
+
+.btn {
+    width: 70px;
+    height: 30px;
+    color: red;
+    border-radius: 1px;
+    border-color: darkgrey;
+    text-align: center;
+    font-size: 12px;
+}
+.blue {
+    width: 37px;
+    height: 30px;
+    color: blue;
+    border-radius: 1px;
+    border-color: darkgrey;
+    text-align: center;
+
+}
+.pink {
+    width: 37px;
+    height: 30px;
+    color: fuchsia;
+    border-radius: 1px;
+    border-color: darkgrey;
+    text-align: center;
+
+}
+.red {
+    width: 37px;
+    height: 30px;
+    color: red;
+    border-radius: 1px;
+    border-color: darkgrey;
+    text-align: center;
+}
+.gray {
+    width: 37px;
+    height: 30px;
+    color: gray;
+    border-radius: 1px;
+    border-color: darkgrey;
+    text-align: center;
+}
+.buttons {
+    margin: 0;
+}
