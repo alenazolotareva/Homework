@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da34718-7926-4bfb-a30d-aeea972527cd" name="Changes" comment="hw6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hw5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alenazolotareva&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alenazolotareva/Homework.git&quot;,
+    &quot;accountId&quot;: &quot;3a56ea2e-2a3a-43a7-ae4b-37fb1fc28cac&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wwWt6jQjSA4a7goQaHnvZ7ofFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "D:/git/HM/Homework",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da34718-7926-4bfb-a30d-aeea972527cd" name="Changes" comment="" />
+      <created>1746953327249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746953327249</updated>
+      <workItem from="1746953328466" duration="1909000" />
+      <workItem from="1747039930149" duration="1493000" />
+      <workItem from="1747049742085" duration="20000" />
+      <workItem from="1747049795829" duration="1080000" />
+      <workItem from="1747052700370" duration="891000" />
+      <workItem from="1747053618607" duration="18000" />
+      <workItem from="1747053685390" duration="789000" />
+      <workItem from="1747122915005" duration="328000" />
+      <workItem from="1747123275823" duration="942000" />
+      <workItem from="1747124328735" duration="5044000" />
+      <workItem from="1747137481127" duration="11414000" />
+      <workItem from="1747226178996" duration="327000" />
+      <workItem from="1747226610429" duration="1238000" />
+      <workItem from="1747394458313" duration="700000" />
+      <workItem from="1747396904759" duration="434000" />
+      <workItem from="1747401528317" duration="291000" />
+      <workItem from="1747401847994" duration="1222000" />
+      <workItem from="1747403136753" duration="162000" />
+      <workItem from="1747403327640" duration="2722000" />
+      <workItem from="1747485330155" duration="2112000" />
+      <workItem from="1747646273825" duration="4662000" />
+      <workItem from="1747654820818" duration="728000" />
+      <workItem from="1747656072415" duration="53000" />
+      <workItem from="1747656137537" duration="266000" />
+      <workItem from="1747656456502" duration="27000" />
+      <workItem from="1747656509912" duration="3696000" />
+      <workItem from="1747669522419" duration="258000" />
+      <workItem from="1747669990902" duration="28000" />
+      <workItem from="1747742694623" duration="14864000" />
+      <workItem from="1747919643832" duration="315000" />
+      <workItem from="1747988604699" duration="12001000" />
+      <workItem from="1748248837739" duration="14000" />
+      <workItem from="1748248881488" duration="7000" />
+      <workItem from="1748249002195" duration="8000" />
+      <workItem from="1748339896576" duration="6361000" />
+      <workItem from="1748352690690" duration="1029000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw3">
+      <option name="closed" value="true" />
+      <created>1746953999235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746953999235</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw4">
+      <option name="closed" value="true" />
+      <created>1748346326446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748346326446</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw5">
+      <option name="closed" value="true" />
+      <created>1748346977868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748346977868</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw5">
+      <option name="closed" value="true" />
+      <created>1748347251253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748347251253</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw6">
+      <option name="closed" value="true" />
+      <created>1748348362294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748348362294</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw6">
+      <option name="closed" value="true" />
+      <created>1748348438557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748348438557</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hw5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw3" />
+    <MESSAGE value="hw4" />
+    <MESSAGE value="hw5" />
+    <MESSAGE value="hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw6" />
+  </component>
+</project>
