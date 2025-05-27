@@ -10,10 +10,10 @@ body {
 }
 
 .display {
-    width: 40%;
+   width: 40%;
     margin: 10px 0;
     padding: 4px;
-    text-align: right;
+   text-align: right;
     display: flex;
     align-self: flex-end;
 }
@@ -32,11 +32,11 @@ body {
 
 .top-buttons {
     gap: 5px;
-    display: flex;
+display: flex;
     justify-content: flex-end;
     width: 445px;
     padding: 5px;
-}
+}      
 
 .btn {
     width: 70px;
