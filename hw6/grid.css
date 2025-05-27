@@ -1,0 +1,31 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 60% 25% 15%;
+    grid-template-rows: auto auto auto;
+    gap: 10px;
+    background-color: white;
+}
+.header, .article, .nav, .ads, .footer {
+    background: gold;
+    padding: 10px;
+}
+.header {
+    grid-column: 1/4;
+    height: 60px;
+}
+.article {
+    grid-column: 1/2;
+    height: 360px;
+}
+.nav {
+    grid-column: 2/3;
+    height: 360px;
+}
+.ads {
+    grid-column: 3/4;
+    height: 360px;
+}
+.footer {
+    grid-column: 1/4;
+    height: 60px;
+}
